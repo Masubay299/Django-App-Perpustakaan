@@ -1,0 +1,7 @@
+body {
+    background-color: #ffffff;
+}
+
+.jumbotron {
+    background: url('../images/karbon.JPG') no-repeat top center fixed;
+}
